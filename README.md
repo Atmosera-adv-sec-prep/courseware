@@ -4,7 +4,7 @@
 
 This repository contains the courseware for the GitHub Team Training + GHAS course. The course is designed to help you understand how to use GitHub as a team and how to secure your code using GitHub Advanced Security.
 
-[Slides](https://github.com/GitHub-Adoption/courseware/blob/main/security-team-training-formula5.pdf)
+[slides](https://github.com/Atmosera-adv-sec-prep/courseware/blob/main/security-team-training.pdf)
 
 ## Additional Resources
 
