@@ -6,6 +6,12 @@ This repository contains the courseware for the GitHub Team Training + GHAS cour
 
 [slides](https://github.com/Atmosera-adv-sec-prep/courseware/blob/main/security-team-training.pdf)
 
+## Repos
+
+[ghas](https://github.com/Atmosera-adv-sec-prep/ghas)
+
+[express](https://github.com/Atmosera-adv-sec-prep/passport)
+
 ## Additional Resources
 
 [GitHub Advanced Security](https://learn.microsoft.com/en-us/users/githubtraining/collections/rqymc6yw8q5rey)
