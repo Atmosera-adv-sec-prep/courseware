@@ -12,6 +12,8 @@ This repository contains the courseware for the GitHub Team Training + GHAS cour
 
 [express](https://github.com/Atmosera-adv-sec-prep/passport)
 
+[swiss cheese)[https://github.com/Atmosera-adv-sec-prep/swiss-cheese)
+
 ## Additional Resources
 
 [GitHub Advanced Security](https://learn.microsoft.com/en-us/users/githubtraining/collections/rqymc6yw8q5rey)
