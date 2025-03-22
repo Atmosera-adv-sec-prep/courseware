@@ -2,14 +2,11 @@
 
 ## Courseware
 
-This repository contains the courseware for the GitHub Team Training + GHAS course. The course is designed to help you understand how to use GitHub as a team and how to secure your code using GitHub Advanced Security.
+This repository contains the courseware for the GitHub Security Training for Developers. 
 
-[security-team-training.pdf](https://github.com/user-attachments/files/17327761/security-team-training.pdf)
-
-## Repos
+## Sample Repos
 
 [ghas](https://github.com/Atmosera-adv-sec-prep/ghas)
-
 
 [swiss cheese](https://github.com/Atmosera-adv-sec-prep/swiss-cheese)
 
