@@ -10,7 +10,6 @@ This repository contains the courseware for the GitHub Team Training + GHAS cour
 
 [ghas](https://github.com/Atmosera-adv-sec-prep/ghas)
 
-[express](https://github.com/Atmosera-adv-sec-prep/passport)
 
 ## Additional Resources
 
