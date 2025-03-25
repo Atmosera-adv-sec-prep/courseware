@@ -4,11 +4,9 @@
 
 This repository contains the courseware for the GitHub Security Training for Developers. 
 
-## Sample Repos
+## Training Repo
 
 [ghas](https://github.com/Atmosera-adv-sec-prep/ghas)
-
-[swiss cheese](https://github.com/Atmosera-adv-sec-prep/swiss-cheese)
 
 ## Additional Resources
 
